@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-nodejs",
+  "version": "1.0.0",
+  "description": "This is a sample application for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
